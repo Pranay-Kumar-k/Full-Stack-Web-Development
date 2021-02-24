@@ -1,0 +1,7 @@
+#cont {
+    border: 10px solid red;
+    padding: 10px;
+    overflow: scroll;
+    max-height: 500px;
+    text-align: center;
+}
